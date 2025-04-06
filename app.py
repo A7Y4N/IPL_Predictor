@@ -3,6 +3,7 @@ import pickle
 import pandas as pd
 import numpy as np
 import warnings
+import sklearn
 warnings.filterwarnings("ignore")
 
 st.set_page_config(page_title="IPL 2025 Match Predictor")  
